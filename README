@@ -1,0 +1,2 @@
+Usage: ./ctrl_fork_bomb.sh <n_proc> <delay_in_sec>
+E.g. ./ctrl_fork_bomb.sh 128 60
